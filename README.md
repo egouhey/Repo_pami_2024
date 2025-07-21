@@ -11,7 +11,7 @@
   
 ## 📄 This project in short
 
-I developed this small robot in collaboration with one of my classmates to participate in the 2024 edition of the French Robotics Cup as a PAMI : a small robot that must move quickly on the table. It is equipped with an ESP32, DC micro motors, and ultrasonic sensors. We also designed a PCB for interconnecting all these components.
+We developed this small robot in collaboration to participate in the 2024 edition of the French Robotics Cup as a PAMI : a small robot that must move quickly on the table. It is equipped with an ESP32, DC micro motors, and ultrasonic sensors. We also designed a PCB for interconnecting all these components.
 
 ## 🚀 Quickstart
 
