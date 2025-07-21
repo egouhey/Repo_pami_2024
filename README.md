@@ -13,11 +13,11 @@
 
 We developed this small robot in collaboration to participate in the 2024 edition of the French Robotics Cup as a PAMI : a small robot that must move quickly on the table. It is equipped with an ESP32, DC micro motors, and ultrasonic sensors. We also designed a PCB for interconnecting all these components.
 
+Here is the [school project report](docs/bibliography/Compte%20rendu%20projet%20S8%20pami.pdf) which we produced as part of the “Module Libre” course at ENSEIRB MATMECA.
+
 ## 🚀 Quickstart
 
 Here you will find links to the different parts of the project:
-
-* [Rapport pdf](docs/bibliography)
 
 * [3D Parts Design](docs/Meca.md)
 
