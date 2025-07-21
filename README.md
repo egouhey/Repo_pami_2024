@@ -33,4 +33,4 @@ Here you will find links to the different parts of the project:
 |:----------------------------:|:-----------------------------------------------------------------------:|
 | 🔒 **Confidentiality**       | **Public**                                          |
 | ⚖️ **Licence**               |  [MIT](https://opensource.org/licenses/MIT)    |
-| 👨‍👨‍👦 **Authors**               |  [Gouhey Estébane](https://www.linkedin.com/in/estebane-gouhey/)    |
+| 👨‍👨‍👦 **Authors**               |  [Prouteau Guillaume](), [Gouhey Estébane](https://www.linkedin.com/in/estebane-gouhey/)    |
