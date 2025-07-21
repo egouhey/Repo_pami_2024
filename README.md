@@ -1,26 +1,29 @@
 # Pami 2024
 
-**Description:** Short Description
+**A differential robot participating in the French Robotics Cup 2024 with the Eirbot team**
 
 <div style="text-align: center;">
-  <img src="images\fox.jpg" alt="FOX" width="300"/>
+  <img src="images\pami.jpg" alt="FOX" width="300"/>
 </div>
 
 
-[👨‍💻 Documentation](docs/) • [🚀 User documentation](docs/user) •  [📚 Bibliography](docs/bibliography) • [👽 Source files](src/)
+[👨‍💻 Documentation](docs/) •  [📚 Bibliography](docs/bibliography) • [👽 Source files](src/)
   
 ## 📄 This project in short
 
-Lorem Ipsum
+I developed this small robot in collaboration with one of my classmates to participate in the 2024 edition of the French Robotics Cup as a PAMI : a small robot that must move quickly on the table. It is equipped with an ESP32, DC micro motors, and ultrasonic sensors. We also designed a PCB for interconnecting all these components.
 
 ## 🚀 Quickstart
 
 Here you will find links to the different parts of the project:
 
-* [Link 1](docs\developer\example.md)
+* [Rapport pdf](docs/bibliography)
 
-* [Link 2](docs\user\example.md)
+* [3D Parts Design](docs/Meca.md)
 
+* [Electronics Guide](docs/Elec.md)
+
+* [Arduino Code Overview](docs/Code.md)
 
 
 
